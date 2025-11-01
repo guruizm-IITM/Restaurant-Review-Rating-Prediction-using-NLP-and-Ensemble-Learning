@@ -1,4 +1,4 @@
-# Emotion Classification using TF-IDF and Logistic Regression
+# Sentiment Classification using TF-IDF and Logistic Regression
 
 ## 📘 Project Overview
 
